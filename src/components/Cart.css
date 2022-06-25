@@ -1,0 +1,57 @@
+.flipkartallcarts{
+    height: 380px;
+    width: 250px;
+    background-color: aquamarine;
+    margin-top: 5px;
+}
+.Flipkartcartimg{
+    height:265px ;
+    width:245px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+}
+.flipkartimagejpg{
+    height: 260px;
+    width: 240px;
+}
+.remainpart{
+    height: 70px;
+    width: 240px;
+    /* background-color: blue; */
+}
+.tshirt{
+
+    font-weight: bold;
+}
+.Rs{
+    font-weight: bold;
+}
+.cartsqunatiy{
+    font-weight: bold;
+}
+.flipkartbutton{
+    height: 40px;
+    width: 245px;
+    /* background-color: blueviolet; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.itsfilpkartbutton{
+    height:35px ;
+    width: 170px;
+    font-weight: bolder;
+    font-size: large;
+    border-radius: 10px;
+    color: white;
+    background-color:#047BD5 ;
+
+}
+.allflipkarts{
+    display: flex;
+    flex-wrap: wrap ;
+    column-gap: 2px;
+}

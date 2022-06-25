@@ -1,0 +1,104 @@
+.flipkartheader{
+    
+    height: 65px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#047BD5;
+    /* padding: 2px; */
+}
+.flipkartdiv{
+    width:150px;
+    height:60px;
+    /* background-color: blue; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-left: 150px; */
+}
+.h1{
+    color: white;
+    font-weight: bolder;
+}
+.flipkartsearch{
+    width: 510px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: blueviolet; */
+}
+.flipkartsearchinput{
+    height: 40px;
+    width: 500px;
+    /* border-radius: 5px; */
+}
+.Searchicon{
+    height: 45px;
+    width: 50px;
+    /* background-color: #FF9900; */
+    color:#047BD5 ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    margin-left: -50px;
+}
+
+.flipkartlogin{
+    height: 60px;
+    width:100px;
+    /* background-color:white; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flipkartitslogin{
+    font-size:larger;
+    font-weight: bold;
+    color: white;
+}
+.flipkartcart{
+    width: 120px;
+    height: 60px;
+    /* background-color: cadetblue; */
+    display: flex;
+    align-items: center;
+}
+.flipkartimage{
+    height: 50px;
+    width: 50px;
+    /* background-color: darkgoldenrod; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.intsimg{
+    height: 40px;
+    width: 40px;
+}
+.flipkartcartdiv{
+    width: 60px;
+    height: 50px;
+    font-weight: bolder;
+    /* background-color: firebrick; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.intscountdiv{
+    height: 20px;
+    width: 20px;
+    /* background-color: gold; */
+    margin-top: 3px;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+.intscartdiv{
+    margin-top: 20px;
+    font-size: larger;
+    color: white;
+}
